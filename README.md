@@ -1,8 +1,8 @@
 # Grade 10 English as a Second Language (ESL) — Narrative Writing
 ### UNIVERSITY OF NAMIBIA — Faculty of Education and Human Sciences
 * **Course Title:** ICT in Teaching & Learning — E3612CI (Practical Assignment)
-* **Student Name:** Fillipus Kadhingula
-* **Student Number:** 202073106
+* **Student Name 1:** Fillipus Kadhingula (202073106)
+* **Student Name 2:** Ericka N Heita (224226045)
 * **Assignment Mark Allocation:** 50 Marks 
 
 ---
